@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\8b9a77de457f9f30e6af723bfa33b20ed9db2aba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b739661c7142579d33f42801cfb71882cd217727">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_d61b9bb4f6b4cb27b50c71017d05d7636db7ee6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\98602f31dddb9e1425e5442eaa2af1aa340182d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_b53f3b4d70ac3e105b5834e110136fd27a8cd132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\b610222451ff15a343780698d1e60f7c1d227a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d8ec04dc91c0c90a0ceeca77c94c8b15cb7f3892">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_149bacead1e79815f416645968cb1ab1503dfa23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\9408708193f5d3cf1e3e29d768b7ee8dae674366\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_2c531448af5383b69f15721786ff64d41e15c3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_71ed58a989098744978a20287d1a52a5150ddf22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\c91c5af0e371dec43610b3e45206007046f0aabc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_fb30cd95e8984868ced3fbdcbb35fdfbd2c008c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\42767a3d744c23b669e6b159d4b3cbff34e5f062\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="243341581f994665f19570c50ac0a61610029983">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_9b9c6707cafbe2d144ddceeef5aeca972befd1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\f0510fadf66575b9e39cfc45bdf5df3cb60333c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e1086213a85bf2bfc3f6448d66581198ba380f69">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_726a63678cc0efb596ff479f65f9f239faf0ac8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_315ab54f81f4c5ca005f8cf9a0ee98d7e7eb05b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\5ae9ca977217285429944166e53e0ffe78ed18a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_765e429a06543322428106d9574a429c8ad6b35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\a262314c52ef7a5bf3ea099148579e08472baa81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9ff5f71ff6ed9612bc05ff376dd9ca27c7da977">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_1d1bf1d09f07b56dbba46a59b1b854416b4e7cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL 6440\.android\build-cache\0a18373620472f9582aa9d65ff0b1f69fdfc2581\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="16f423bae182fd81553d109269f7a5e13fd1cb52">
+        <dex dex="C:\Users\DELL 6440\Downloads\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes_394ab3fa085a3d606a80fa02e05c731306766e1a.jar" />
+    </item>
+
+</items>

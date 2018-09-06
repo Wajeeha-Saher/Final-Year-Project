@@ -1,0 +1,4 @@
+#Thu Sep 06 04:29:01 PKT 2018
+base.0=C\:\\Users\\DELL 6440\\Downloads\\MyApplication\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\DELL 6440\\Downloads\\MyApplication\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
